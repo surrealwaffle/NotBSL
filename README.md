@@ -1,2 +1,2 @@
 # NotBSL
-Reimplementation of the Blam Scripting Language using modern C++ (17/early 20)
+Reimplementation of the Blam Scripting Engine using modern C++ (17/early 20).
